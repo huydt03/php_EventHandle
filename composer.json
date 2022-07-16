@@ -1,0 +1,17 @@
+{
+    "name": "huydt/event-handle",
+    "description": "php libs, EventHandle",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Huydt\\Libs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "drhuy",
+            "email": "huydt0307@gmail.com"
+        }
+    ],
+    "require": {}
+}
